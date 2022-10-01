@@ -51,7 +51,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                   <h5> <span className="w3-opacity"> 1 de janeiro</span></h5>
                 </div>
                 <div className="w3-justify">
-                  <img src="img/img2.jpg" alt="Girl Hat" style={{width: '100%'}} className="w3-padding-16" />
+                  <img src="/img2.jpg" alt="Girl Hat" style={{width: '100%'}} className="w3-padding-16" />
                   <p><strong>Meu olhar!</strong> O olhar pode transmitir, de forma particular, aspectos da personalidade e dos sentimentos de um indivíduo e pode modificar-se com o envelhecimento. Partindo desse pressuposto, a região orbito palpebral assume importante papel como complemento dessa forma de expressão.</p>
                   <p className="w3-left"><button className="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i className="fa fa-thumbs-up" /> Like</b></button></p>
                   <p className="w3-right"><button className="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies &nbsp;</b> <span className="w3-tag w3-white">1</span></button></p>
@@ -59,7 +59,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                   <div className="w3-row w3-margin-bottom" id="demo1" style={{display: 'none'}}>
                     <hr />
                     <div className="w3-col l2 m3">
-                      <img src="img/img14.jpg" style={{width: '90px'}} />
+                      <img src="/img14.jpg" style={{width: '90px'}} />
                     </div>
                     <div className="w3-col l10 m9">
                       <h4>George <span className="w3-opacity w3-medium">DEZEMBRO 3, 2022, 6:32 PM</span></h4>
@@ -76,7 +76,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                   <h5> <span className="w3-opacity"> 8 de julho</span></h5>
                 </div>
                 <div className="w3-justify">
-                  <img src="img/img3.jpg" alt="Men in Hats" style={{width: '100%'}} className="w3-padding-16" />
+                  <img src="/img3.jpg" alt="Men in Hats" style={{width: '100%'}} className="w3-padding-16" />
                   <p>  Chapéus! A tendência deste verão são os chapéus masculinos!</p>
                   <p className="w3-left"><button className="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i className="fa fa-thumbs-up" /> Like</b></button></p>
                   <p className="w3-right"><button className="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies &nbsp;</b> <span className="w3-tag w3-white">2</span></button></p>
@@ -86,7 +86,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                     <div className="w3-row">
                       <hr />
                       <div className="w3-col l2 m3">
-                        <img src="/w3images/girl_train.jpg" style={{width: '90px'}} />
+                        <img src="/girl_train.jpg" style={{width: '90px'}} />
                       </div>
                       <div className="w3-col l10 m9">
                         <h4>Amber <span className="w3-opacity w3-medium">April 26, 2015, 10:52 PM</span></h4>
@@ -95,7 +95,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                     </div>
                     <div className="w3-row w3-margin-bottom">
                       <div className="w3-col l2 m3">
-                        <img src="/w3images/girl.jpg" style={{width: '90px'}} />
+                        <img src="/girl.jpg" style={{width: '90px'}} />
                       </div>
                       <div className="w3-col l10 m9">
                         <h4> É de tirar o chapéu <span className="w3-opacity w3-medium">8 de julho, 9:12 PM</span></h4>
@@ -123,7 +123,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                     <hr />
                     <div className="w3-row w3-margin-bottom">
                       <div className="w3-col l2 m3">
-                        <img src="/w3images/girl_mountain.jpg" style={{width: '90px'}} />
+                        <img src="/girl_mountain.jpg" style={{width: '90px'}} />
                       </div>
                       <div className="w3-col l10 m9">
                         <h4>Jane <span className="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
@@ -132,7 +132,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                     </div>
                     <div className="w3-row w3-margin-bottom">
                       <div className="w3-col l2 m3">
-                        <img src="/w3images/boy.jpg" style={{width: '90px'}} />
+                        <img src="/boy.jpg" style={{width: '90px'}} />
                       </div>
                       <div className="w3-col l10 m9">
                         <h4>John <span className="w3-opacity w3-medium">April 8, 2015, 10:32 PM</span></h4>
@@ -157,7 +157,7 @@ and is wrapped around the whole page content, except for the footer in this exam
             <div className="w3-col l4">
               {/* About Card */}
               <div className="w3-white w3-margin">
-                <img src="img/img5.jpg" alt="Jane" style={{width: '100%'}} className="w3-grayscale" />
+                <img src="/img5.jpg" alt="Jane" style={{width: '100%'}} className="w3-grayscale" />
                 <div className="w3-container w3-black">
                   <h4> O meu nome</h4>
                   <p>Apenas eu, eu e eu, explorando o universo do desconhecimento. Eu tenho um coração de amor e um interesse de lorem ipsum e mauris neque quam blog. Quero compartilhar meu mundo com você.</p>
@@ -171,25 +171,25 @@ and is wrapped around the whole page content, except for the footer in this exam
                 </div>
                 <ul className="w3-ul w3-hoverable w3-white">
                   <li className="w3-padding-16">
-                    <img src="img/img12.jpg" alt="Image" className="w3-left w3-margin-right" style={{width: '50px'}} />
+                    <img src="/img12.jpg" alt="Image" className="w3-left w3-margin-right" style={{width: '50px'}} />
                     <span className="w3-large">LOOKS PARTY</span>
                     <br />
                     <span />
                   </li>
                   <li className="w3-padding-16">
-                    <img src="img/img11.jpg" alt="Image" className="w3-left w3-margin-right" style={{width: '50px'}} />
+                    <img src="/img11.jpg" alt="Image" className="w3-left w3-margin-right" style={{width: '50px'}} />
                     <span className="w3-large"> CHAPÉUS FEMININOS</span>
                     <br />
                     <span />
                   </li>
                   <li className="w3-padding-16">
-                    <img src="img/img9.jpg" alt="Image" className="w3-left w3-margin-right" style={{width: '50px'}} />
+                    <img src="/img9.jpg" alt="Image" className="w3-left w3-margin-right" style={{width: '50px'}} />
                     <span className="w3-large">PAISAGEM</span>
                     <br />
                     <span />
                   </li>
                   <li className="w3-padding-16">
-                    <img src="img/img10.jpg" alt="Image" className="w3-left w3-margin-right w3-sepia" style={{width: '50px'}} />
+                    <img src="/img10.jpg" alt="Image" className="w3-left w3-margin-right w3-sepia" style={{width: '50px'}} />
                     <span className="w3-large">CRUELLA</span>
                     <br />
                     <span />
@@ -232,12 +232,12 @@ and is wrapped around the whole page content, except for the footer in this exam
                 </div>
                 <div className="w3-row-padding w3-white">
                   <div className="w3-col s6">
-                    <p><img src="img/img13.jpg" alt="Jeans" style={{width: '100%'}} /></p>
-                    <p><img src="img/img7.png" alt="Jeans" style={{width: '100%'}} /></p>
+                    <p><img src="/img13.jpg" alt="Jeans" style={{width: '100%'}} /></p>
+                    <p><img src="/img7.png" alt="Jeans" style={{width: '100%'}} /></p>
                   </div>
                   <div className="w3-col s6">
-                    <p><img src="img/img6.jpg" alt="Men in Hats" style={{width: '100%'}} className="w3-grayscale" /></p>
-                    <p><img src="img/img8.jpg" alt="Jeans" style={{width: '100%'}} /></p>
+                    <p><img src="/img6.jpg" alt="Men in Hats" style={{width: '100%'}} className="w3-grayscale" /></p>
+                    <p><img src="/img8.jpg" alt="Jeans" style={{width: '100%'}} /></p>
                   </div>
                 </div>
               </div>
