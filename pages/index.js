@@ -112,7 +112,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                   <h5> <span className="w3-opacity">3 de setembro </span></h5>
                 </div>
                 <div className="w3-justify">
-                  <img src="img/img4.jpg" alt="Runway" style={{width: '100%'}} className="w3-padding-16" />
+                  <img src="/runway.jpg" alt="Runway" style={{width: '100%'}} className="w3-padding-16" />
                   <p><strong>Moda pessoal!</strong>
                   </p><p>É a soma total de experiência, estilo de vida, ocupação, idade, local de residência, modo de pensar e de expressão, ou seja, a expressão da individualidade, que é marca registrada de todos. Ter estilo é respeitar verdadeiramente seus valores, seu tipo de corpo e os momentos da vida que você está passando.</p>
                   <p className="w3-left"><button className="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i className="fa fa-thumbs-up" /> Like</b></button></p>
@@ -141,7 +141,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                     </div>
                     <div className="w3-row w3-margin-bottom">
                       <div className="w3-col l2 m3">
-                        <img src="/w3images/girl_hood.jpg" style={{width: '90px'}} />
+                        <img src="/girl_hood.jpg" style={{width: '90px'}} />
                       </div>
                       <div className="w3-col l10 m9">
                         <h4>Anja <span className="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span></h4>
